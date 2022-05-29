@@ -1,5 +1,5 @@
 {
-  "name": "tetris",
+  "name": "nico_tetris",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amadevBox/tetris.git"
+    "url": "git+https://github.com/4VIIe/Tetris.git"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/amadevBox/tetris/issues"
   },
-  "homepage": "https://github.com/amadevBox/tetris#readme",
+  "homepage": "https://github.com/4VIIe/Tetris#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
